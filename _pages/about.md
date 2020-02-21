@@ -12,7 +12,7 @@ redirect_from:
     <br> <br>I am purchasing my Master degree in Computer Science at Tsinghua University (Beijing) and my advisor is <a href="https://wenfei-wu.github.io/">Wenfei Wu</a>.
     <br> <br>Recently having a research in In-Network Distributed Training, Networked Systems, Software-Defined Network (SDN) and P4.</p>
 <p>Welcome to my <br><a href="https://github.com/laochanlam">👉GitHub · laochanlam</a> & 
-    <a href="/resources/resume.pdf">👉My Resume</a>
+    <a href="/files/resume.pdf">👉My Resume</a>
     ！</p>
 
 
