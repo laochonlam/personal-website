@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 <p>Hi, This is <strong>Lam</strong>,
-    <br> <br>I am pursuing my Master's degree in Computer Science at Tsinghua University (Beijing) and my advisor is <a href="https://wenfei-wu.github.io/" target="_blank">Wenfei Wu</a>. 
+    <br> <br>I am pursuing my Master's degree in Computer Science at <a href="https://iiis.tsinghua.edu.cn/en/about/">IIIS</a> Tsinghua University (Beijing) and my advisor is <a href="https://wenfei-wu.github.io/" target="_blank">Wenfei Wu</a>. 
     <br>
     <br>
     I am honored to be advised by 
     <a href="http://pages.cs.wisc.edu/~akella/" target="_blank">Aditya Akella</a> and 
     <a href="https://menghsun.github.io/www/" target="_blank">Meng-Hsun Tsai</a> in the past.
-    <br> <br>Recently having a research in In-Network Distributed Training, Networked Systems, Software-Defined Network (SDN) and P4.</p>
+    <br> <br>Recently having a research in In-Network Computation, Networked Systems, Machine Learning Systems, Distributed Training, Software-Defined Network (SDN) and P4.</p>
 <p>Welcome to my <br><a href="https://github.com/laochanlam">👉GitHub · laochanlam</a> & 
-    <a href="/files/resume.pdf">👉My Resume</a>
+    <a href="/files/resume.pdf">👉My Resume</a> & <a href="https://blog.laochanlam.com/">👉My Blog</a>
     ！</p>
 
 
