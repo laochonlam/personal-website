@@ -16,7 +16,7 @@ redirect_from:
     <a href="http://pages.cs.wisc.edu/~akella/" target="_blank">Aditya Akella</a> and 
     <a href="https://menghsun.github.io/www/" target="_blank">Meng-Hsun Tsai</a> in the past.
     <br> <br>Recently having a research in In-Network Computation, Networked Systems, Machine Learning Systems, Distributed Training, Software-Defined Network (SDN) and P4.<br> <br>
-    <li><font color="red">[NEW]</font> <a href="https://laochanlam.github.io/atp_website/" target="_blank">ATP</a> accepted to NSDI 2021</li><br> <br>
+    <li><font color="red">[NEW]</font> <a href="https://atp-nsdi.github.io/" target="_blank">ATP</a> accepted to NSDI 2021</li><br> <br>
     </p>
     
 <p>Welcome to my <br><a href="https://github.com/laochanlam">👉GitHub · laochanlam</a> & 
