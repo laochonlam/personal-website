@@ -31,6 +31,7 @@
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <!-- {{ title }} -->
       {% endif %}
     </h2>
     
@@ -56,8 +57,16 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      {% elsif post.paperurl %}
+      <p>
+        <a href=" {{ post.paperurl }}">[paper]<u></u></a>&nbsp;&nbsp;
+        {% if post.sourceurl %}
+        <a href=" {{ post.sourceurl }} ">[code]<u></u></a>&nbsp;&nbsp;
+        {% endif %}
+        {% if post.pageurl %}
+        <a href=" {{ post.pageurl }} ">[page]<u></u></a>&nbsp;&nbsp;
+        {% endif %}
+      </p>
     {% endif %}
 
   </article>
