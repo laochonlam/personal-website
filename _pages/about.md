@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>Hi, This is <strong>Lam</strong>,
+<p>Hi, This is <strong>ChonLam Lao</strong>,
     <br> <br>I am pursuing my Master's degree in Computer Science at <a href="https://iiis.tsinghua.edu.cn/en/about/">IIIS</a> Tsinghua University (Beijing) and my advisor is <a href="https://wenfei-wu.github.io/" target="_blank">Wenfei Wu</a>. 
     <br>
     <br>
