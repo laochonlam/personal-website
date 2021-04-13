@@ -21,7 +21,7 @@ redirect_from:
     
 <p>Welcome to my <br>
 <ul>
-  <li><a href="https://github.com/laochanlam">👉GitHub · laochanlam</a></li>
+  <li><a href="https://github.com/laochonlam">👉GitHub · laochanlam</a></li>
   <li><a href="/files/resume.pdf">👉My Resume</a></li>
   <li><a href="https://blog.laochanlam.com/">👉My Blog</a></li>
 </ul>

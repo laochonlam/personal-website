@@ -86,8 +86,8 @@ author:
   location         : "Beijing"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=jOLUih4AAAAJ&hl=en"
-  email            : "laochanlam@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=y8nmQmcAAAAJ&hl=zh-TW"
+  email            : "chonlamlao@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://blog.laochanlam.com"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "laochanlam"
+  github           : "laochonlam"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "laochanlam"
+  twitter          : "laochonlam"
   vine             :
   weibo            :
   xing             :
