@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "ChonLam Lao"
-  avatar           : "icCardPicture.jpeg"
+  avatar           : "IMG_26521.png"
   bio              : "Computer Science"
-  location         : "Beijing"
+  location         : "Macau"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y8nmQmcAAAAJ&hl=zh-TW"
   email            : "chonlamlao@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Chonlam-Lao"
   uri              : "https://blog.laochanlam.com"
   bitbucket        :
   codepen          :
