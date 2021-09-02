@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>Hi, This is <strong>ChonLam Lao</strong>,
-    <br> <br>I am a newly admitted Computer Science PhD Student at SEAS Harvard University, co-advised by Professor <a href="http://pages.cs.wisc.edu/~akella/" target="_blank">Minlan Yu</a> and <a href="http://pages.cs.wisc.edu/~akella/" target="_blank">Aditya Akella</a>. Before Harvard, I obtained my master's degree at Tsinghua University advised by Professor <a href="https://wenfei-wu.github.io/" target="_blank">Wenfei Wu</a>.
+    <br> <br>I am a newly admitted Computer Science PhD Student at SEAS Harvard University, co-advised by Professor <a href="http://minlanyu.seas.harvard.edu/" target="_blank">Minlan Yu</a> and <a href="http://pages.cs.wisc.edu/~akella/" target="_blank">Aditya Akella</a>. Before Harvard, I obtained my master's degree at Tsinghua University advised by Professor <a href="https://wenfei-wu.github.io/" target="_blank">Wenfei Wu</a>.
     <br>
     <br>
     I am honored to be advised by 
