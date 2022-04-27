@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lam / Tsinghua University"
+title                    : "Lam / Harvard University"
 title_separator          : "-"
 name                     : &name "Lam"
 description              : &description "Lam personal website"
