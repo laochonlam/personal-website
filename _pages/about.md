@@ -9,15 +9,20 @@ redirect_from:
 ---
 
 
-I am a first-year Computer Science PhD Student at SEAS Harvard University, co-advised by Professor Minlan Yu and Aditya Akella. Before Harvard, I obtained my master's degree at Tsinghua University advised by Professor Wenfei Wu.
+I am a first-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
+co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
+Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"} Tsinghua University advised by 
+Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. 
+
+I did an interesting project with Professor [Meng-Hsun Tsai](http://imslab.org/~tsaimh/){:target="_blank"} when I was an undergrad.
 
 Recently interested in Network System, ML System, SmartNIC and In-Network Computation.
 
 &nbsp;
 
-- 04/2022: <font color="red">[NEW] </font> I will be joining Google as a research internship this summer!
+- 04/2022: <font color="red">[NEW] </font> I will join Google as a research intern this summer!
 - 06/2021: Invited to give talk on [SIGMETRICS'21](https://www.sigmetrics.org/sigmetrics2021/program.html#highlight1){:target="_blank"}
-- 04/2021: [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is awarded the best paper on NSDI'21!
+- 04/2021: [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is awarded the best paper on NSDI'21! (Press: [CN](https://www.tsinghua.edu.cn/info/1181/82677.htm)/[EN](https://iiis.tsinghua.edu.cn/en/show-9187-1.html);)
 - 12/2020: Our paper [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is accepted to NSDI'21
 
 &nbsp;
