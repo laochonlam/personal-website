@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-I am a first-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
+I am a second-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"} Tsinghua University advised by 
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. 
 
-<!-- I did an interesting project with Professor [Meng-Hsun Tsai](http://imslab.org/~tsaimh/){:target="_blank"} when I was an undergrad. -->
+My previous research [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao) received Best Paper Award in USENIX NSDI 2021.
 
-Recently interested in Network System, ML System, SmartNIC and In-Network Computation.
+Recently interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. Collaborations are welcome!
 
 &nbsp;
 - 09/2022: <font color="red">[NEW] </font> ASK accepted in ASPLOS 2023!
