@@ -19,7 +19,7 @@ My previous research [ATP](https://www.usenix.org/conference/nsdi21/presentation
 Recently interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. Collaborations are welcome!
 
 &nbsp;
-- 09/2022: <font color="red">[NEW] </font> ASK accepted in ASPLOS 2023!
+- 09/2022: <font color="red">[NEW] </font> [ASK](https://dl.acm.org/doi/10.1145/3575693.3575708) accepted in ASPLOS 2023!
 - 04/2022: I will join Google as a research intern this summer!
 - 06/2021: Invited to give talk on [SIGMETRICS'21](https://www.sigmetrics.org/sigmetrics2021/program.html#highlight1){:target="_blank"}
 - 04/2021: [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is awarded the best paper on NSDI'21! (Press: [CN](https://www.tsinghua.edu.cn/info/1181/82677.htm)/[EN](https://iiis.tsinghua.edu.cn/en/show-9187-1.html);)
