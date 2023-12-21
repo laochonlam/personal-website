@@ -28,6 +28,30 @@ Recently interested in Networked Systems, Machine Learning Systems, Programmable
 
 &nbsp;
 
+Publications
+======
+**THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**\
+_Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Michael Mitzenmacher, Minlan Yu_\
+_(__NSDI 2024__) The 21st USENIX Symposium on Networked Systems Design and Implementation_ 
+
+**A Generic Service to Provide In-network Aggregation for Key-value Streams**\
+_Yongchao He, Wenfei Wu, Yanfang Le, Ming Liu, <u>ChonLam Lao</u>_\
+_(__ASPLOS 2023__) ASPLOS XVII: Proceedings of the seventeenth international conference on Architectural Support for Programming Languages and Operating Systems_
+<br><font color="red">Distinguished Paper Award</font>
+
+**In-Network Key-Value Cache with Linearizability**\
+_Yuxuan Qin, Weize Gao, <u>ChonLam Lao</u>, Wenfei Wu, Kai Chen_\
+_(__ICPADS 2023__) The 29th IEEE International Conference on Parallel and Distributed Systems_ 
+
+**Efficient Data-Plane Memory Scheduling for In-Network Aggregation**\
+_Hao Wang, Yuxuan Qin, <u>ChonLam Lao</u>, Yanfang Le, Wenfei Wu, Kai Chen_\
+_(__ICNP 2023__) The 31st IEEE International Conference on Network Protocols_ 
+
+**ATP: In-network Aggregation for Multi-tenant Learning**\
+_<u>ChonLam Lao</u>, Yanfang Le, Kshiteej Mahajan, Yixi Chen, Wenfei Wu, Aditya Akella, Michael Swift_\
+_(__NSDI 2021__) The 18th USENIX Symposium on Networked Systems Design and Implementation_
+<br><font color="red">Best Paper Award</font>
+
 Services
 ======
 * NSDI'22 external reviewer
@@ -37,7 +61,7 @@ Links
 ======
 * [GitHub](https://github.com/laochonlam){:target="_blank"}
 * [Resume](/files/resume.pdf){:target="_blank"}
-* [Blog](https://blog.laochanlam.com/){:target="_blank"}
+<!-- * [Blog](https://blog.laochanlam.com/){:target="_blank"} -->
 
 <!-- <a href="https://github.com/laochanlam">👉GitHub · laochanlam</a> & 
     <a href="/files/resume.pdf">👉My Resume</a> & <a href="https://blog.laochanlam.com/">👉My Blog</a>
