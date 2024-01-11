@@ -12,7 +12,7 @@ redirect_from:
 I am a second-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"} Tsinghua University advised by 
-Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. 
+Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I completed my undergrad at [NCKU](https://eecs.ncku.edu.tw/index.php) in Taiwan.
 
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
 
