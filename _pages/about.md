@@ -12,44 +12,39 @@ redirect_from:
 I am a second-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"} Tsinghua University advised by 
-Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I completed my undergrad at [NCKU](https://eecs.ncku.edu.tw/index.php) in Taiwan.
+Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}.
 
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
 
-Recently interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. Collaborations are welcome!
-
-&nbsp;
-- 03/2023: <font color="red">[NEW] </font> Co-authored work [ASK](https://dl.acm.org/doi/10.1145/3575693.3575708) wins Distinguished Paper Award in ASPLOS 2023!
-- 09/2022: Co-authored work [ASK](https://dl.acm.org/doi/10.1145/3575693.3575708) accepted in ASPLOS 2023
-- 04/2022: I will join Google as a research intern this summer
-- 06/2021: Invited to give talk on [SIGMETRICS'21](https://www.sigmetrics.org/sigmetrics2021/program.html#highlight1){:target="_blank"}
-- 04/2021: [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is awarded the best paper on NSDI'21! (Press: [CN](https://www.tsinghua.edu.cn/info/1181/82677.htm)/[EN](https://iiis.tsinghua.edu.cn/en/show-9187-1.html);)
-- 12/2020: Our paper [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is accepted to NSDI'21
+Recently interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. 
 
 &nbsp;
 
-Publications
+Recent Publications
 ======
-**THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**\
-_Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Michael Mitzenmacher, Minlan Yu_\
-_(__NSDI 2024__) The 21st USENIX Symposium on Networked Systems Design and Implementation_ 
 
-**A Generic Service to Provide In-network Aggregation for Key-value Streams**\
-_Yongchao He, Wenfei Wu, Yanfang Le, Ming Liu, <u>ChonLam Lao</u>_\
-_(__ASPLOS 2023__) ASPLOS XVII: Proceedings of the seventeenth international conference on Architectural Support for Programming Languages and Operating Systems_
+**[Arxiv] TrainMover: Efficient ML Training Live Migration with No Memory Overhead**\
+_<u>ChonLam Lao</u>, Minlan Yu, Aditya Akella, Jiamin Cao, Yu Guan, Pengcheng Zhang, Zhilong Zheng, Yichi Xu, Ennan Zhai, Dennis Cai, Jiaqi Gao_. [pdf](https://www.arxiv.org/abs/2412.12636)
+
+**[Arxiv] EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**\
+_<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_. [pdf](https://arxiv.org/abs/2405.19213)
+
+
+**[NSDI 2025] eTran: Extensible Kernel Transport with eBPF**\
+_Zhongjie Chen, Qingkai Meng, <u>ChonLam Lao</u>, Yifan Liu, Fengyuan Ren, Minlan Yu, Yang Zhou_. [pdf]()
+
+**[NSDI 2024] THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**\
+_Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Michael Mitzenmacher, Minlan Yu_. [pdf](https://www.usenix.org/conference/nsdi24/presentation/li-minghao)
+
+**[ASPLOS 2023] A Generic Service to Provide In-network Aggregation for Key-value Streams**\
+_Yongchao He, Wenfei Wu, Yanfang Le, Ming Liu, <u>ChonLam Lao</u>_. [pdf](https://dl.acm.org/doi/10.1145/3575693.3575708)
 <br><font color="red">Distinguished Paper Award</font>
 
-**In-Network Key-Value Cache with Linearizability**\
-_Yuxuan Qin, Weize Gao, <u>ChonLam Lao</u>, Wenfei Wu, Kai Chen_\
-_(__ICPADS 2023__) The 29th IEEE International Conference on Parallel and Distributed Systems_ 
+**[ICNP 2023] Preemptive Switch Memory Usage to Accelerate Training Jobs with Shared In-Network Aggregation**\
+_Hao Wang, Yuxuan Qin, <u>ChonLam Lao</u>, Yanfang Le, Wenfei Wu, Kai Chen_. [pdf](https://ieeexplore.ieee.org/document/10355574/)
 
-**Efficient Data-Plane Memory Scheduling for In-Network Aggregation**\
-_Hao Wang, Yuxuan Qin, <u>ChonLam Lao</u>, Yanfang Le, Wenfei Wu, Kai Chen_\
-_(__ICNP 2023__) The 31st IEEE International Conference on Network Protocols_ 
-
-**ATP: In-network Aggregation for Multi-tenant Learning**\
-_<u>ChonLam Lao</u>, Yanfang Le, Kshiteej Mahajan, Yixi Chen, Wenfei Wu, Aditya Akella, Michael Swift_\
-_(__NSDI 2021__) The 18th USENIX Symposium on Networked Systems Design and Implementation_
+**[NSDI 2021] ATP: In-network Aggregation for Multi-tenant Learning**\
+_<u>ChonLam Lao</u>, Yanfang Le, Kshiteej Mahajan, Yixi Chen, Wenfei Wu, Aditya Akella, Michael Swift_. [pdf](https://www.usenix.org/conference/nsdi21/presentation/lao)
 <br><font color="red">Best Paper Award</font>
 
 Services
@@ -108,4 +103,21 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+
+Collaborations are welcome! 
+&nbsp;
+- 03/2023: <font color="red">[NEW] </font> Co-authored work [ASK](https://dl.acm.org/doi/10.1145/3575693.3575708) wins Distinguished Paper Award in ASPLOS 2023!
+- 09/2022: Co-authored work [ASK](https://dl.acm.org/doi/10.1145/3575693.3575708) accepted in ASPLOS 2023
+- 04/2022: I will join Google as a research intern this summer
+- 06/2021: Invited to give talk on [SIGMETRICS'21](https://www.sigmetrics.org/sigmetrics2021/program.html#highlight1){:target="_blank"}
+- 04/2021: [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is awarded the best paper on NSDI'21! (Press: [CN](https://www.tsinghua.edu.cn/info/1181/82677.htm)/[EN](https://iiis.tsinghua.edu.cn/en/show-9187-1.html);)
+- 12/2020: Our paper [ATP](https://www.usenix.org/conference/nsdi21/presentation/lao){:target="_blank"} is accepted to NSDI'21
+
+**In-Network Key-Value Cache with Linearizability**\
+_Yuxuan Qin, Weize Gao, <u>ChonLam Lao</u>, Wenfei Wu, Kai Chen_\
+_(__ICPADS 2023__) The 29th IEEE International Conference on Parallel and Distributed Systems_ 
+
+
+&nbsp;
+I completed my undergrad at [NCKU](https://eecs.ncku.edu.tw/index.php) in Taiwan.
 -->
