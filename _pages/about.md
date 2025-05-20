@@ -9,48 +9,61 @@ redirect_from:
 ---
 
 
-I am a second-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
+I am a fourth-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"} Tsinghua University advised by 
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}.
 
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
 
-Recently interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. 
-
-&nbsp;
-
-Recent Publications
-======
-
-**[Arxiv] TrainMover: Efficient ML Training Live Migration with No Memory Overhead**\
-_<u>ChonLam Lao</u>, Minlan Yu, Aditya Akella, Jiamin Cao, Yu Guan, Pengcheng Zhang, Zhilong Zheng, Yichi Xu, Ennan Zhai, Dennis Cai, Jiaqi Gao_. [pdf](https://www.arxiv.org/abs/2412.12636)
-
-**[Arxiv] EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**\
-_<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_. [pdf](https://arxiv.org/abs/2405.19213)
+Recently interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. <br>
 
 
-**[NSDI 2025] eTran: Extensible Kernel Transport with eBPF**\
-_Zhongjie Chen, Qingkai Meng, <u>ChonLam Lao</u>, Yifan Liu, Fengyuan Ren, Minlan Yu, Yang Zhou_. [pdf]()
+# Publications
+---
 
-**[NSDI 2024] THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**\
-_Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Michael Mitzenmacher, Minlan Yu_. [pdf](https://www.usenix.org/conference/nsdi24/presentation/li-minghao)
+### <font color="#6788e8">Reliable and Efficient ML Training and Inference Systems</font>
 
-**[ASPLOS 2023] A Generic Service to Provide In-network Aggregation for Key-value Streams**\
-_Yongchao He, Wenfei Wu, Yanfang Le, Ming Liu, <u>ChonLam Lao</u>_. [pdf](https://dl.acm.org/doi/10.1145/3575693.3575708)
-<br><font color="red">Distinguished Paper Award</font>
+- **TrainMover: An Interruption-Resilient and Reliable ML Training Runtime**  
+  _<u>ChonLam Lao</u>, Minlan Yu, Aditya Akella, Jiamin Cao, Yu Guan, Pengcheng Zhang, Zhilong Zheng, Yichi Xu, Ennan Zhai, Dennis Cai, Jiaqi Gao_. *In submission*. [[arXiv](https://www.arxiv.org/abs/2412.12636)]
 
-**[ICNP 2023] Preemptive Switch Memory Usage to Accelerate Training Jobs with Shared In-Network Aggregation**\
-_Hao Wang, Yuxuan Qin, <u>ChonLam Lao</u>, Yanfang Le, Wenfei Wu, Kai Chen_. [pdf](https://ieeexplore.ieee.org/document/10355574/)
+- **EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**  
+  _<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_. *In submission*. [[arXiv](https://arxiv.org/abs/2405.19213)]
 
-**[NSDI 2021] ATP: In-network Aggregation for Multi-tenant Learning**\
-_<u>ChonLam Lao</u>, Yanfang Le, Kshiteej Mahajan, Yixi Chen, Wenfei Wu, Aditya Akella, Michael Swift_. [pdf](https://www.usenix.org/conference/nsdi21/presentation/lao)
-<br><font color="red">Best Paper Award</font>
+- **THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**  
+  _Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Xinran Tang, Michael Mitzenmacher, Minlan Yu_. *NSDI 2024*. [[link](https://www.usenix.org/conference/nsdi24/presentation/li-minghao)]
+
+---
+
+### <font color="#6788e8">In-network Computing and Programmable Switches</font>
+
+- **ATP: In-network Aggregation for Multi-tenant Learning**  
+  _<u>ChonLam Lao</u>, Yanfang Le, Kshiteej Mahajan, Yixi Chen, Wenfei Wu, Aditya Akella, Michael Swift_. *NSDI 2021*. [[link](https://www.usenix.org/conference/nsdi21/presentation/lao)] <br><font color="red">Best Paper Award</font>
+
+- **A Generic Service to Provide In-network Aggregation for Key-value Streams**  
+  _Yongchao He, Wenfei Wu, Yanfang Le, Ming Liu, <u>ChonLam Lao</u>_. *ASPLOS 2023*. [[link](https://dl.acm.org/doi/10.1145/3575693.3575708)] <br><font color="red">Distinguished Paper Award</font>
+
+- **Efficient Data-Plane Memory Scheduling for In-Network Aggregation**  
+  _Hao Wang, Yuxuan Qin, <u>ChonLam Lao</u>, Yanfang Le, Wenfei Wu, Kai Chen_. *ICNP 2023*. [[link](https://ieeexplore.ieee.org/document/10355574/)]
+
+---
+
+### <font color="#6788e8">Datacenter Networking</font>
+
+- **RDMA NIC Multipathing**  
+  _<u>ChonLam Lao</u> et al._ *In submission*
+
+- **eTran: Extensible Kernel Transport with eBPF**  
+  _Zhongjie Chen, Qingkai Meng, <u>ChonLam Lao</u>, Yifan Liu, Fengyuan Ren, Minlan Yu, Yang Zhou_. *NSDI 2025*. [[link](https://www.usenix.org/conference/nsdi25/presentation/chen-zhongjie)]
+
+- **StarPulse: A Datacenter Infrastructure for Large Language Model Training at Scale**  
+  _Qingkai Meng, Hao Zheng, Zhenhui Zhang, <u>ChonLam Lao</u> et al._ *SIGCOMM 2025*
 
 Services
 ======
 * NSDI'22 external reviewer
-* IEEE/ACM Transactions on Networking (TON) reviewer
+* IEEE/ACM Transactions on Networking (TON) reviewer since 2021
+* IEEE Transactions on Services Computing (TSC) reviewer since 2024
     
 Links
 ======
