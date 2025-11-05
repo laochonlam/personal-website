@@ -12,12 +12,12 @@ redirect_from:
 I am a fourth-year Computer Science PhD Student at [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"} Harvard University, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"} Tsinghua University advised by 
-Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}.
+Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. <br>
 
+I am a recipient of the Google PhD Fellowship (2025).
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
 
-Recently interested in Networked Systems, Machine Learning Systems, Programmable Hardware and In-Network Computation. <br>
-
+I was born and raised in Macau SAR, China --- where my characters are written as *劉俊林*
 
 # Publications
 ---
@@ -56,7 +56,7 @@ Recently interested in Networked Systems, Machine Learning Systems, Programmable
 - **eTran: Extensible Kernel Transport with eBPF**  
   _Zhongjie Chen, Qingkai Meng, <u>ChonLam Lao</u>, Yifan Liu, Fengyuan Ren, Minlan Yu, Yang Zhou_. *NSDI 2025*. [[link](https://www.usenix.org/conference/nsdi25/presentation/chen-zhongjie)]
 
-- **StarPulse: A Datacenter Infrastructure for Large Language Model Training at Scale**  
+- **Astral: A Datacenter Infrastructure for Large Language Model Training at Scale**  
   _Qingkai Meng, Hao Zheng, Zhenhui Zhang, <u>ChonLam Lao</u> et al._ *SIGCOMM 2025*
 
 Services
