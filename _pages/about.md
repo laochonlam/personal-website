@@ -17,7 +17,8 @@ Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am inte
 I am a recipient of the Google PhD Fellowship (2025).
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
 
-I was born and raised in Macau SAR, China --- where my characters are written as *劉俊林*
+<!-- <br>
+*I was born and raised in Macau SAR, China --- where my characters are written as 劉俊林* -->
 
 # Publications
 ---
