@@ -27,5 +27,9 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "logger"
 gem "faraday-retry"
 gem "jekyll-github-metadata"
