@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ChonLam Lao"
+title: "ChonLam Lao (劉俊林/刘俊林)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,9 +17,8 @@ Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am inte
 I am a recipient of the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/){:target="_blank"} (2025).
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
 
-<!-- <br>
-*I was born and raised in Macau SAR, China --- where my characters are written as 劉俊林* -->
-
+_I grew up in Macau!_
+ <!--  where my characters are written as 劉俊林! -->
 <br>
 # Publications
 ---
