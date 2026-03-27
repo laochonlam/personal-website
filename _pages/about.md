@@ -26,13 +26,18 @@ _I grew up in Macau!_
 ### <font color="#6788e8">Reliable and Efficient ML Training and Inference Systems</font>
 
 - **TrainMover: An Interruption-Resilient and Reliable ML Training Runtime**  
-  _<u>ChonLam Lao</u>, Minlan Yu, Aditya Akella, Jiamin Cao, Yu Guan, Pengcheng Zhang, Zhilong Zheng, Yichi Xu, Ennan Zhai, Dennis Cai, Jiaqi Gao_. *In submission*. [[arXiv](https://www.arxiv.org/abs/2412.12636)]
+  _<u>ChonLam Lao</u>, Minlan Yu, Aditya Akella, Jiamin Cao, Yu Guan, Pengcheng Zhang, Zhilong Zheng, Yichi Xu, Ennan Zhai, Dennis Cai, Jiaqi Gao, OSDI 2026_. [[arXiv](https://www.arxiv.org/abs/2412.12636)]
 
-- **EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**  
-  _<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_. *In submission*. [[arXiv](https://arxiv.org/abs/2405.19213)]
+- **An Extensible Software Transport Layer for GPU Networking**
+_Yang Zhou, Zhongjie Chen, Ziming Mao, <u>ChonLam Lao</u>, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica. OSDI 2026_. [[arXiv](https://arxiv.org/abs/2405.19213)]
+
 
 - **THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**  
   _Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Xinran Tang, Michael Mitzenmacher, Minlan Yu_. *NSDI 2024*. [[link](https://www.usenix.org/conference/nsdi24/presentation/li-minghao)]
+
+
+- **EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**  
+  _<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_. *In submission*. [[arXiv](https://arxiv.org/abs/2405.19213)]
 
 ---
 
