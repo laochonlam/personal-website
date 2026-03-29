@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ChonLam Lao (劉俊林/刘俊林)"
+title: "ChonLam Lao"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
