@@ -9,7 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# >= 228 ships Liquid 4.0.4+ (fixes Ruby 3.2+ `tainted?` removal).
+gem "github-pages", ">= 228", group: :jekyll_plugins
+gem "liquid", ">= 4.0.4"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

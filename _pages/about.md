@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently visiting [Sky Lab](https://sky.cs.berkeley.edu/){:target="_blank"} at UC Berkeley, hosted by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/){:target="_blank"}. I am a fifth-year Computer Science PhD Student at Harvard University [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"}, 
+I am currently visiting [Sky Lab](https://sky.cs.berkeley.edu/){:target="_blank"} at UC Berkeley, hosted by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/){:target="_blank"}. I am a old-enough Computer Science PhD Candidate at Harvard University [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"}, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
 Before Harvard, I obtained my master's degree at Tsinghua University [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"}, advised by 
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am interested in Machine Learning Systems, Network Systems and Programmable Hardware.
@@ -17,7 +17,7 @@ Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am inte
 I am a recipient of the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/){:target="_blank"} (2025).
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
 
-_I grew up in Macau!_
+_I grew up in Macau! My Chinese Name is 劉俊林_
  <!--  where my characters are written as 劉俊林! -->
 <br>
 # Publications
@@ -25,45 +25,47 @@ _I grew up in Macau!_
 
 ### <font color="#6788e8">Reliable and Efficient ML Training and Inference Systems</font>
 
-- **TrainMover: An Interruption-Resilient and Reliable ML Training Runtime**  
-  _<u>ChonLam Lao</u>, Minlan Yu, Aditya Akella, Jiamin Cao, Yu Guan, Pengcheng Zhang, Zhilong Zheng, Yichi Xu, Ennan Zhai, Dennis Cai, Jiaqi Gao, OSDI 2026_. [[arXiv](https://www.arxiv.org/abs/2412.12636)]
+- **[OSDI 26] TrainMover: An Interruption-Resilient and Reliable ML Training Runtime**  
+  _<u>ChonLam Lao</u>, Minlan Yu, Aditya Akella, Jiamin Cao, Yu Guan, Pengcheng Zhang, Zhilong Zheng, Yichi Xu, Ennan Zhai, Dennis Cai, Jiaqi Gao_. [[arXiv](https://www.arxiv.org/abs/2412.12636)]
 
-- **An Extensible Software Transport Layer for GPU Networking**
-_Yang Zhou, Zhongjie Chen, Ziming Mao, <u>ChonLam Lao</u>, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica. OSDI 2026_. [[arXiv](https://arxiv.org/abs/2405.19213)]
+- **[OSDI 26] UCCL: An Extensible Software Transport Layer for GPU Networking**  
+  _Yang Zhou, Zhongjie Chen, Ziming Mao, <u>ChonLam Lao</u>, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica_. [[arXiv](https://arxiv.org/abs/2504.17307)]
 
+- **[ArXiv 26] A Few GPUs, A Whole Lotta Scale: Faithful LLM Training Emulation with PrismLLM**  
+  _Shaoke Xi, <u>ChonLam Lao</u>, Boyi Jia, Jiaqi Gao, Zhipeng Zhang, Jiamin Cao, Brian Sutioso, Erci Xu, Minlan Yu, Kui Ren, Yong Li, Zhengping Qian, Ennan Zhai, Jingren Zhou_.
 
-- **THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**  
-  _Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Xinran Tang, Michael Mitzenmacher, Minlan Yu_. *NSDI 2024*. [[link](https://www.usenix.org/conference/nsdi24/presentation/li-minghao)]
+- **[[ArXiv 26](https://arxiv.org/abs/2604.17172v1)] CCCL: In-GPU Compression-Coupled Collective Communication**  
+  _<u>Chon Lam Lao</u>, Zhiying Xu, Zhuang Wang, Ziming Mao, Delong Meng, Jia Zhen, Jun Wu, Ion Stoica, Yida Wang, Yang Zhou_. 
 
+- **[NSDI 24] THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**  
+  _Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Xinran Tang, Michael Mitzenmacher, Minlan Yu_. [[link](https://www.usenix.org/conference/nsdi24/presentation/li-minghao)]
 
-- **EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**  
-  _<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_. *In submission*. [[arXiv](https://arxiv.org/abs/2405.19213)]
-
----
+- **[[ArXiv 24](https://arxiv.org/abs/2405.19213)] EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**  
+  _<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_.
 
 ### <font color="#6788e8">In-network Computing and Programmable Switches</font>
 
-- **ATP: In-network Aggregation for Multi-tenant Learning**  
-  _<u>ChonLam Lao</u>, Yanfang Le, Kshiteej Mahajan, Yixi Chen, Wenfei Wu, Aditya Akella, Michael Swift_. *NSDI 2021*. [[link](https://www.usenix.org/conference/nsdi21/presentation/lao)] <br><font color="red">Best Paper Award</font>
+- **[NSDI 21] ATP: In-network Aggregation for Multi-tenant Learning**  
+  _<u>ChonLam Lao</u>, Yanfang Le, Kshiteej Mahajan, Yixi Chen, Wenfei Wu, Aditya Akella, Michael Swift_. [[link](https://www.usenix.org/conference/nsdi21/presentation/lao)] <br><font color="red">Best Paper Award</font>
 
-- **A Generic Service to Provide In-network Aggregation for Key-value Streams**  
-  _Yongchao He, Wenfei Wu, Yanfang Le, Ming Liu, <u>ChonLam Lao</u>_. *ASPLOS 2023*. [[link](https://dl.acm.org/doi/10.1145/3575693.3575708)] <br><font color="red">Distinguished Paper Award</font>
+- **[ASPLOS 23] A Generic Service to Provide In-network Aggregation for Key-value Streams**  
+  _Yongchao He, Wenfei Wu, Yanfang Le, Ming Liu, <u>ChonLam Lao</u>_. [[link](https://dl.acm.org/doi/10.1145/3575693.3575708)] <br><font color="red">Distinguished Paper Award</font>
 
-- **Efficient Data-Plane Memory Scheduling for In-Network Aggregation**  
-  _Hao Wang, Yuxuan Qin, <u>ChonLam Lao</u>, Yanfang Le, Wenfei Wu, Kai Chen_. *ICNP 2023*. [[link](https://ieeexplore.ieee.org/document/10355574/)]
+- **[ICNP 23] Efficient Data-Plane Memory Scheduling for In-Network Aggregation**  
+  _Hao Wang, Yuxuan Qin, <u>ChonLam Lao</u>, Yanfang Le, Wenfei Wu, Kai Chen_. [[link](https://ieeexplore.ieee.org/document/10355574/)]
 
 ---
 
 ### <font color="#6788e8">Datacenter Networking</font>
 
-- **RDMA NIC Multipathing**  
-  _<u>ChonLam Lao</u> et al._ *In submission*
+- **[Submission] RDMA NIC Multipathing**  
+  _<u>ChonLam Lao</u> et al._
 
-- **eTran: Extensible Kernel Transport with eBPF**  
-  _Zhongjie Chen, Qingkai Meng, <u>ChonLam Lao</u>, Yifan Liu, Fengyuan Ren, Minlan Yu, Yang Zhou_. *NSDI 2025*. [[link](https://www.usenix.org/conference/nsdi25/presentation/chen-zhongjie)]
+- **[NSDI 25] eTran: Extensible Kernel Transport with eBPF**  
+  _Zhongjie Chen, Qingkai Meng, <u>ChonLam Lao</u>, Yifan Liu, Fengyuan Ren, Minlan Yu, Yang Zhou_. [[link](https://www.usenix.org/conference/nsdi25/presentation/chen-zhongjie)]
 
-- **Astral: A Datacenter Infrastructure for Large Language Model Training at Scale**  
-  _Qingkai Meng, Hao Zheng, Zhenhui Zhang, <u>ChonLam Lao</u> et al._ *SIGCOMM 2025*
+- **[SIGCOMM 25] Astral: A Datacenter Infrastructure for Large Language Model Training at Scale**  
+  _Qingkai Meng, Hao Zheng, Zhenhui Zhang, <u>ChonLam Lao</u> et al._
 
 Services
 ======
