@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
-I am currently visiting [Sky Lab](https://sky.cs.berkeley.edu/){:target="_blank"} at UC Berkeley, hosted by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/){:target="_blank"}. I am a old-enough Computer Science PhD Candidate at Harvard University [SEAS](https://www.seas.harvard.edu/computer-science){:target="_blank"}, 
-co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
-Before Harvard, I obtained my master's degree at Tsinghua University [IIIS](https://iiis.tsinghua.edu.cn/en/){:target="_blank"}, advised by 
-Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am interested in Machine Learning Systems, Network Systems and Programmable Hardware.
-
 I am a recipient of the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/){:target="_blank"} (2025).
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
+
+
+I am currently visiting Sky Lab at UC Berkeley, hosted by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/){:target="_blank"}. I am a old-enough Computer Science PhD Candidate at Harvard University, 
+co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
+Before Harvard, I obtained my master's degree at Tsinghua University, advised by 
+Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am interested in Machine Learning Systems, Network Systems and Programmable Hardware.
+
 
 _I grew up in Macau! My Chinese Name is 劉俊林_
  <!--  where my characters are written as 劉俊林! -->
@@ -32,16 +33,16 @@ _I grew up in Macau! My Chinese Name is 劉俊林_
   _Yang Zhou, Zhongjie Chen, Ziming Mao, <u>ChonLam Lao</u>, Shuo Yang, Pravein Govindan Kannan, Jiaqi Gao, Yilong Zhao, Yongji Wu, Kaichao You, Fengyuan Ren, Zhiying Xu, Costin Raiciu, Ion Stoica_. [[arXiv](https://arxiv.org/abs/2504.17307)]
 
 - **[ArXiv 26] A Few GPUs, A Whole Lotta Scale: Faithful LLM Training Emulation with PrismLLM**  
-  _Shaoke Xi, <u>ChonLam Lao</u>, Boyi Jia, Jiaqi Gao, Zhipeng Zhang, Jiamin Cao, Brian Sutioso, Erci Xu, Minlan Yu, Kui Ren, Yong Li, Zhengping Qian, Ennan Zhai, Jingren Zhou_.
+  _Shaoke Xi*, <u>ChonLam Lao*</u>, Boyi Jia*, Jiaqi Gao*, Zhipeng Zhang, Jiamin Cao, Brian Sutioso, Erci Xu, Minlan Yu, Kui Ren, Yong Li, Zhengping Qian, Ennan Zhai, Jingren Zhou_. [[arXiv](https://arxiv.org/pdf/2605.15617)] (*co-first authors)
 
-- **[[ArXiv 26](https://arxiv.org/abs/2604.17172v1)] CCCL: In-GPU Compression-Coupled Collective Communication**  
-  _<u>Chon Lam Lao</u>, Zhiying Xu, Zhuang Wang, Ziming Mao, Delong Meng, Jia Zhen, Jun Wu, Ion Stoica, Yida Wang, Yang Zhou_. 
+- **[ArXiv 26] CCCL: In-GPU Compression-Coupled Collective Communication**  
+  _<u>Chon Lam Lao</u>, Zhiying Xu, Zhuang Wang, Ziming Mao, Delong Meng, Jia Zhen, Jun Wu, Ion Stoica, Yida Wang, Yang Zhou_. [[arXiv](https://arxiv.org/abs/2604.17172v1)]
 
 - **[NSDI 24] THC: Accelerating Distributed Deep Learning Using Tensor Homomorphic Compression**  
   _Minghao Li, Ran Ben Basat, Shay Vargaftik, <u>ChonLam Lao</u>, Kevin Xu, Xinran Tang, Michael Mitzenmacher, Minlan Yu_. [[link](https://www.usenix.org/conference/nsdi24/presentation/li-minghao)]
 
-- **[[ArXiv 24](https://arxiv.org/abs/2405.19213)] EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**  
-  _<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_.
+- **[ArXiv 24] EdgeSight: Enabling Modeless and Cost-Efficient Inference at the Edge**  
+  _<u>ChonLam Lao</u>, Jiaqi Gao, Ganesh Ananthanarayanan, Aditya Akella, Minlan Yu_. [[arXiv](https://arxiv.org/abs/2405.19213)]
 
 ### <font color="#6788e8">In-network Computing and Programmable Switches</font>
 
@@ -58,14 +59,14 @@ _I grew up in Macau! My Chinese Name is 劉俊林_
 
 ### <font color="#6788e8">Datacenter Networking</font>
 
-- **[Submission] RDMA NIC Multipathing**  
+- **[Submission] RDMA NIC Multipathing with Google**  
   _<u>ChonLam Lao</u> et al._
 
 - **[NSDI 25] eTran: Extensible Kernel Transport with eBPF**  
   _Zhongjie Chen, Qingkai Meng, <u>ChonLam Lao</u>, Yifan Liu, Fengyuan Ren, Minlan Yu, Yang Zhou_. [[link](https://www.usenix.org/conference/nsdi25/presentation/chen-zhongjie)]
 
 - **[SIGCOMM 25] Astral: A Datacenter Infrastructure for Large Language Model Training at Scale**  
-  _Qingkai Meng, Hao Zheng, Zhenhui Zhang, <u>ChonLam Lao</u> et al._
+  _Qingkai Meng, Hao Zheng, Zhenhui Zhang, <u>ChonLam Lao</u> et al._ [[link](https://dl.acm.org/doi/10.1145/3718958.3750521)]
 
 Services
 ======
