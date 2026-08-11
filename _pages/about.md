@@ -14,7 +14,7 @@ My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021,
 
 I am currently visiting Sky Lab at UC Berkeley, hosted by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/){:target="_blank"}. I am a final-year Computer Science PhD candidate at Harvard University, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
-Before Harvard, I obtained my master's degree at Tsinghua University, advised by 
+Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/) Tsinghua University, advised by 
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am interested in Machine Learning Systems, Network Systems and Programmable Hardware.
 
 
