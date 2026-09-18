@@ -79,7 +79,6 @@ Services
 Links
 ======
 * [GitHub](https://github.com/laochonlam){:target="_blank"}
-* [Resume](/files/resume.pdf){:target="_blank"}
 <!-- * [Blog](https://blog.laochanlam.com/){:target="_blank"} -->
 
 <!-- <a href="https://github.com/laochanlam">👉GitHub · laochanlam</a> & 

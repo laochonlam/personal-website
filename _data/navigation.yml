@@ -16,9 +16,5 @@ main:
   #   url: https://blog.laochanlam.com/
   #   target: "_blank"
 
-  - title: "CV"
-    url: /files/resume.pdf
-    target: "_blank"
-    
   # - title: "Guide"
   #   url: /markdown/
