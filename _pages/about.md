@@ -10,12 +10,14 @@ redirect_from:
 
 I am a recipient of the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/){:target="_blank"} (2025).
 My previous research received the <b> Best Paper Award </b> in USENIX NSDI 2021, and the co-authored work won the <b> Distinguished Paper Award </b> in ASPLOS 2023.
+I am interested in Machine Learning Systems, Network Systems and Programmable Hardware.
 
 
-I am currently visiting Sky Lab at UC Berkeley, hosted by [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/){:target="_blank"}. I am a final-year Computer Science PhD candidate at Harvard University, 
+I received my Ph.D. in Computer Science from Harvard University, 
 co-advised by Professor [Minlan Yu](http://minlanyu.seas.harvard.edu/){:target="_blank"} and [Aditya Akella](http://pages.cs.wisc.edu/~akella/){:target="_blank"}. 
+I spent a great time in Boston and Berkeley during my Ph.D., including a visit to SkyLab hosted by Professor [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/){:target="_blank"}. 
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/) Tsinghua University, advised by 
-Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. I am interested in Machine Learning Systems, Network Systems and Programmable Hardware.
+Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}.
 
 
 _I grew up in Macau! My Chinese Name is 劉俊林_
