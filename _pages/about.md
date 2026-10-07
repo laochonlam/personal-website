@@ -19,8 +19,8 @@ I spent a great time in Boston and Berkeley during my Ph.D., including a visit t
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/) Tsinghua University, advised by 
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}.
 
-
-_ChonLam Lao is the Cantonese form of my name, written 劉俊林 in Chinese, using the Macau romanization I grew up with._
+<br>
+_ChonLam Lao is the Cantonese form of my name, written 劉俊林 in Chinese, using the Macau romanization I grew up with!_
  <!--  where my characters are written as 劉俊林! -->
 <br>
 # Selected Publications
