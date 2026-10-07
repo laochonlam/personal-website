@@ -20,7 +20,7 @@ Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.ed
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}.
 
 
-_I grew up in Macau! My Chinese Name is 劉俊林_
+_ChonLam Lao is the Cantonese form of my name, written 劉俊林 in Chinese, using the Macau romanization I grew up with._
  <!--  where my characters are written as 劉俊林! -->
 <br>
 # Selected Publications
