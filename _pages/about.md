@@ -19,7 +19,7 @@ I spent a great time in Boston and Berkeley during my Ph.D., including a visit t
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/) Tsinghua University, advised by 
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}.
 
-_ChonLam Lao is the Macau Cantonese form of 劉俊林._
+_ChonLam Lao is the Macau Cantonese form of 劉俊林_
  <!--  where my characters are written as 劉俊林! -->
 <br>
 # Selected Publications
