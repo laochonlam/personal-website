@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lam / Harvard University"
+title                    : "Lam / IIIS, Tsinghua University"
 title_separator          : "-"
 name                     : &name "Lam"
 description              : &description "Lam personal website"
@@ -80,12 +80,13 @@ analytics:
 author:
   name             : "ChonLam Lao"
   avatar           : "MWI_72342.jpg"
-  bio              : "ML Systems, Network Systems"
-  location         : "Boston, MA"
+  bio              : "Incoming Tenure-Track Assistant Professor at IIIS, Tsinghua"
+  location         : "Beijing, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y8nmQmcAAAAJ&hl=zh-TW"
-  email            : "chonlamlao@gmail.com"
+  email            :
+  email_contact_page: "/advising-style/#get-in-touch"
   researchgate     : 
   uri              : 
   bitbucket        :

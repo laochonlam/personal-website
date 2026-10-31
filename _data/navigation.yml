@@ -1,5 +1,14 @@
 # main links links
 main:
+  - title: "English"
+    url: /
+
+  - title: "Advising Style"
+    url: /advising-style/
+
+  - title: "中文"
+    url: /zh/
+
   # - title: "Publications"
   #   url: /publications
 
