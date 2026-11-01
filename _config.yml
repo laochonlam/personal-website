@@ -81,7 +81,17 @@ author:
   name             : "ChonLam Lao"
   avatar           : "MWI_72342.jpg"
   bio              : "Incoming Tenure-Track Assistant Professor at IIIS, Tsinghua"
-  # location         : "Beijing, China"
+  location         : "Beijing"
+  office_address_label: "Office address"
+  office_address   : |-
+    Room 301, 3/F, Building F
+    College of AI
+    Tsinghua University
+    Zhongguancun Intelligent
+    Manufacturing Street
+    No. 45 Chengfu Road
+    Haidian District
+    Beijing 100083, China
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=y8nmQmcAAAAJ&hl=zh-TW"

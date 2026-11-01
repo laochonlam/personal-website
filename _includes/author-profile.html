@@ -23,7 +23,22 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+        <li class="author__location">
+          {% if author.office_address %}
+            <details class="author__office">
+              <summary><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location | escape }} <span class="author__office-toggle" aria-hidden="true">▸</span><span class="visually-hidden"> — {{ author.office_address_label | default: "Office address" | escape }}</span></summary>
+              {% if page.author == "chonlam_zh" %}
+                <div class="author__office-address" lang="zh-Hans">{{ author.office_address | escape | newline_to_br }}</div>
+                <div class="author__office-address" lang="en">{{ site.author.office_address | escape | newline_to_br }}</div>
+              {% else %}
+                <div class="author__office-address" lang="en">{{ author.office_address | escape | newline_to_br }}</div>
+                <div class="author__office-address" lang="zh-Hans">{{ site.data.authors.chonlam_zh.office_address | escape | newline_to_br }}</div>
+              {% endif %}
+            </details>
+          {% else %}
+            <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location | escape }}
+          {% endif %}
+        </li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
