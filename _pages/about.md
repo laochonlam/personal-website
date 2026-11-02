@@ -26,7 +26,7 @@ After completing my Ph.D., I spent some great time at Alibaba US and SkyLab at U
 Before Harvard, I obtained my master's degree at [IIIS](https://iiis.tsinghua.edu.cn/en/) Tsinghua University, advised by 
 Professor [Wenfei Wu](https://wenfei-wu.github.io/){:target="_blank"}. -->
 
-_ChonLam Lao is how 劉俊林 is spelled in Macau Cantonese._
+<!-- _ChonLam Lao is how 劉俊林 is spelled in Macau Cantonese._ -->
  <!--  where my characters are written as 劉俊林! -->
 <br>
 # Selected Publications
